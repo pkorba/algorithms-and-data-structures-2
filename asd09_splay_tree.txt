@@ -1,0 +1,24 @@
+PRZYKŁADOWE WEJŚCIE:
+6
+d
+Defekt muzgó
+Wszyscy jedziemy...
+d
+Zielone żabki
+Lekcja historii
+d
+Defekt muzgó
+Lekcja historii
+w
+Defekt muzgó
+z
+Lekcja historii
+z
+Wszyscy pokutujemy
+
+
+PRZYKŁADOWE WYJŚCIE:
+Wszyscy jedziemy...
+Lekcja historii
+Zielone żabki
+Defekt muzgó

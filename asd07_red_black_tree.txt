@@ -1,0 +1,21 @@
+PRZYKŁADOWE WEJŚCIE:
+5
+Okruszek
+Tester
+Interfejs
+Agent
+Scyzoryk
+4
+r Okruszek Interfejs
+a Kontakt
+m Kontakt 2
+m Interfejs -1
+
+
+PRZYKŁADOWE WYJŚCIE:
+Tester
+Interfejs
+Okruszek
+Kontakt
+Agent
+Scyzoryk

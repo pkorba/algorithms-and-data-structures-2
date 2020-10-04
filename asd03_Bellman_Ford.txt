@@ -1,0 +1,29 @@
+PRZYKŁADOWE DANE WEJŚCIOWE:
+I:
+5
+2 2 0
+1 1 0
+4 5 1
+7 1 0
+6 7 0
+0 4
+
+
+II:
+5
+2 2 0
+1 1 1
+4 5 1
+7 1 0
+6 7 0
+0 4
+
+
+
+PRZYKŁADOWE DANE WYJŚCIOWE:
+I:
+2
+
+
+II:
+NIE ZA DOBRZE?
